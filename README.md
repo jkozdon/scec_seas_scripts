@@ -1,6 +1,8 @@
 These scripts are intended to help users interact with the [SCEC SEAS Benchmark
 Comparison Tool](http://scecdata.usc.edu/cvws/cgi-bin/seas.cgi)
 
+**NOTE: I welcome pull requests to make these scripts better!**
+
 Use these scripts at your own risk. I did not design the website, and make not
 guarantees about there correctness or that they won't do something terrible to
 your data.
