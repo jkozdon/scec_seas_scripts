@@ -14,7 +14,8 @@ my $NARGS = $#ARGV+1;
 if ($NARGS < 4)
 {
   print "Usage:   scec_seas_download_images.pl USER_NAME PASSWORD PROBLEM_NUMBER USERS\n";
-  print "Example: scec_seas_download_images.pl user pass 1\n";
+  print "Example: scec_seas_download_images.pl user pass 1 foo\n";
+  print "Example: scec_seas_download_images.pl user pass 1 foo bar bar.2\n";
   exit;
 }
 
